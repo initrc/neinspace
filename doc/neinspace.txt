@@ -6,10 +6,10 @@ License: The MIT License (MIT)
 1. Intro
 Neinspace is a vim plugin to clean your code in the following ways.
 
-1. Show trailing spaces and tabs.
-2. Remove trailing spaces and tabs.
-3. Remove ^M at the end of the line, which is the carriage return in Windows.
-4. Convert tab to spaces based on the 'tabstop' setting.
+    1. Show trailing spaces and tabs.
+    2. Remove trailing spaces and tabs.
+    3. Remove ^M at the end of the line, which is the carriage return in Windows.
+    4. Convert tab to spaces based on the 'tabstop' setting.
 
 2. Usage
 Neinspace shows tab as '>-' and trailing space as '.'.
