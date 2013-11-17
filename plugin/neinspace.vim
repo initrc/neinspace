@@ -12,7 +12,7 @@ function! Clear()
   "remove trailing spaces and tabs
   %s/\s\+$//e
   "remove ^M
-  %s/\r//e
+  %s/\r$//e
   "convert tab to spaces
   retab
 endfunction
