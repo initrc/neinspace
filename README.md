@@ -2,7 +2,7 @@ Neinspace
 =========
 
 # Intro
-Neinspace is a vim plugin that cleans whitespaces and other craps.
+[Neinspace](https://github.com/initrc/neinspace) is a vim plugin that cleans whitespaces and other craps.
 
 1. Show trailing spaces and tabs.
 2. Remove trailing spaces and tabs.
